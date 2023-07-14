@@ -1,0 +1,19 @@
+button{
+    cursor: pointer;
+    top: 200px;
+    height: 60px;
+    width: 750px;
+     border-color: #000000;
+  
+    background-color: aquamariness;
+    border-radius: 0px 50px 0px 50px;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 250px; 
+    /* border-radius: 100px;; */
+    border-color: black;
+   
+}
